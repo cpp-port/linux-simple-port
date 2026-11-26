@@ -1,0 +1,3 @@
+[submodule "simple-port-common"]
+	path = simple-port-common
+	url = ../../cpp-port/simple-port-common
