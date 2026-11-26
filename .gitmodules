@@ -2,3 +2,7 @@
 	path = common
 	url = ../../cpp-port/simple-port-common
 	branch = main
+[submodule "base"]
+	path = base
+	url = ../../cpp-port/linux-simple-port-base
+	branch = main
